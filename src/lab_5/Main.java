@@ -19,7 +19,7 @@ public class Main {
 
        System.out.println("Результат: "+printlab_5_4(text3,"бяка"));
 
-       String text4="This is a test string";
+       String text4="Это тестовое сообщение";
        printlab_5_5(text4);
     }
 }
